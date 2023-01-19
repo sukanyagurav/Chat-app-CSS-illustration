@@ -31,7 +31,9 @@ body {
     font-family: 'Rubik', sans-serif;
     background-color: var(--secondary-light-violet);
 }
-
+a{
+    text-decoration: none;
+}
 .mobile {
     margin-top: 6rem;
 }
